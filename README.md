@@ -2,7 +2,7 @@
 My Beginner Projects
 # Hi there, I'm Phantom! 👋
 
-![Banner Image][(https://media.licdn.com/dms/image/v2/D5616AQGTcXM4gndeBg/profile-displaybackgroundimage-shrink_350_1400/B56ZYh7W.jGUAY-/0/1744325933081?e=1752105600&v=beta&t=GWJAOcpoXFfsYh0oeihzQsx73p0-vNpZTNu0x2ifm1g))]
+![Banner Image](https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=3&uuid=be163031-d200-4a89-ab6e-49539e6fb348&query=Software+Development+Banner)
 
 ## About Me 🚀
 
