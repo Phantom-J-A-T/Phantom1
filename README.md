@@ -2,7 +2,7 @@
 My Beginner Projects
 # Hi there, I'm Phantom! 👋
 
-!(https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=3&uuid=be163031-d200-4a89-ab6e-49539e6fb348&query=Software+Development+Banner)
+![Banner Image](https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=3&uuid=be163031-d200-4a89-ab6e-49539e6fb348&query=Software+Development+Banner)
 
 ## About Me 🚀
 
